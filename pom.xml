@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>vinyl</artifactId>
-    <version>0.4.3-SNAPSHOT</version>
+    <version>0.4.3</version>
     <name>vinyl</name>
     <description>WebJar for vinyl</description>
     <url>http://webjars.org</url>
@@ -34,7 +34,7 @@
         <developer>
             <id>micmro</id>
             <name>Michael Mrowetz</name>
-            <email></email>
+            <email />
         </developer>
     </developers>
 
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/vinyl</url>
         <connection>scm:git:https://github.com/webjars/vinyl.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/vinyl.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>vinyl-0.4.3</tag>
     </scm>
 
     <build>
